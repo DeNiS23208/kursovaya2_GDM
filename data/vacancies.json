@@ -1,0 +1,137 @@
+[
+    {
+        "title": "Middle QA Engineer",
+        "url": "https://hh.ru/vacancy/117631763",
+        "salary": null,
+        "description": "Базовые знания любого из языков программирования: C#, <highlighttext>Java</highlighttext>, Kotlin, Swift, Python (будет большим плюсом). Понимание клиент-серверного взаимодействия: тонкий и..."
+    },
+    {
+        "title": "Java-разработчик",
+        "url": "https://hh.ru/vacancy/117110836",
+        "salary": {
+            "from": 100000,
+            "to": 200000,
+            "currency": "KZT",
+            "gross": false
+        },
+        "description": "...практике знания <highlighttext>Java</highlighttext>, Spring. Разбираться с ключевыми инструментами и технологиями проекта под руководством опытных наставников. Будет плюсом. Знание <highlighttext>Java</highlighttext> Core. "
+    },
+    {
+        "title": "QA Manual Engineer",
+        "url": "https://hh.ru/vacancy/117618372",
+        "salary": null,
+        "description": "У тебя есть от 3 лет стажа работы в тестировании или обеспечении качества. Понимание практик тест-дизайна. Знание SQL на..."
+    },
+    {
+        "title": "Middle Java-разработчик",
+        "url": "https://hh.ru/vacancy/117632870",
+        "salary": {
+            "from": null,
+            "to": 250000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "description": "Знание технологий, языков и фреймворков Web программирования (<highlighttext>Java</highlighttext>, JDBC, Spring(Spring Boot 2,3), Hibernate). Хорошее знание и умение применять..."
+    },
+    {
+        "title": "QA Engineer",
+        "url": "https://hh.ru/vacancy/117601774",
+        "salary": null,
+        "description": "Понимаете принципы работы СУБД и знаете SQL. Разбираетесь в Gitlab, Docker. *плюсом будет: умение читать код на Python, <highlighttext>Java</highlighttext>."
+    },
+    {
+        "title": "Middle QA Engineer",
+        "url": "https://hh.ru/vacancy/117625201",
+        "salary": null,
+        "description": "Чтобы быть успешным в этой роли потребуется: Опыт с функциональным и интеграционном тестированием. Понимание работы инструментов разработчика в браузере. "
+    },
+    {
+        "title": "QA инженер / Специалист по тестированию / Тестировщик",
+        "url": "https://hh.ru/vacancy/117603574",
+        "salary": null,
+        "description": "Наличие представления о SOAP протоколе. Знание базовых SQL запросов. Базовые знания <highlighttext>Java</highlighttext> / Python / Kotlin / Swift. Базовые навыки автоматизации (или понимание..."
+    },
+    {
+        "title": "Разработчик Java",
+        "url": "https://hh.ru/vacancy/117613763",
+        "salary": null,
+        "description": "Spring Boot 3.4.x. - Spring 6 (Webflux + Project Reactor + Netty). - имеете представление о том, как организована структура..."
+    },
+    {
+        "title": "Java разработчик",
+        "url": "https://hh.ru/vacancy/117612432",
+        "salary": null,
+        "description": "Отличные знания <highlighttext>Java</highlighttext> Spring. Отличные знания Hibernate (ORM). Отличные знания REST API. Хорошие знания SQL. Понимание паттернов и принципов ООП. "
+    },
+    {
+        "title": "Java Developer / Java-разработчик",
+        "url": "https://hh.ru/vacancy/117618999",
+        "salary": null,
+        "description": "Опыт работы с такими технологиями, как Redis, Kafka и Spring Cloud. Знание <highlighttext>Java</highlighttext> 21+ / Spring / SQL и NoSQL. "
+    },
+    {
+        "title": "Backend-разработчик",
+        "url": "https://hh.ru/vacancy/117612364",
+        "salary": null,
+        "description": "Знание языков программирования: Python, <highlighttext>Java</highlighttext>, PHP, Ruby или Node.js. Опыт работы с базами данных. Умение работать с реляционными и нереляционными..."
+    },
+    {
+        "title": "Java-developer (SE)",
+        "url": "https://hh.ru/vacancy/117618111",
+        "salary": null,
+        "description": "Опыт коммерческой разработки на языке <highlighttext>Java</highlighttext> от 2х лет. Знания <highlighttext>Java</highlighttext> 8, 17 (<highlighttext>Java</highlighttext> Core, Multithreading). Опыт работы в..."
+    },
+    {
+        "title": "Java developer (Online banking)",
+        "url": "https://hh.ru/vacancy/117635063",
+        "salary": null,
+        "description": "Уверенное знание <highlighttext>Java</highlighttext> (core, collections, io, generics, multithreading, concurrency, security). Знание и опыт применения DI-контейнеров. Знание фреймворков тестирования: Junit..."
+    },
+    {
+        "title": "QA Engineer",
+        "url": "https://hh.ru/vacancy/117574274",
+        "salary": null,
+        "description": "Знание языка программирования (одного из C#, <highlighttext>Java</highlighttext>, TypeScript) обязательно. Понимание сетевых протоколов. Опыт работы с VSC системами (git). "
+    },
+    {
+        "title": "Senior/Middle Java Developer",
+        "url": "https://hh.ru/vacancy/117616258",
+        "salary": null,
+        "description": "Знания <highlighttext>Java</highlighttext>, Spring Framework, SQL, NoSQL, Kafka. Желателен опыт работы с очередями Kafka ."
+    },
+    {
+        "title": "Java-разработчик (Департамент «Управление ресурсами предприятия»)",
+        "url": "https://hh.ru/vacancy/117626679",
+        "salary": null,
+        "description": "Опыт разработки на <highlighttext>JAVA</highlighttext> от 8 версии и выше. Знание и опыт разработки на Spring Framework. Знание и практический опыт..."
+    },
+    {
+        "title": "Java разработчик (middle)",
+        "url": "https://hh.ru/vacancy/117627973",
+        "salary": {
+            "from": 180000,
+            "to": 240000,
+            "currency": "RUR",
+            "gross": true
+        },
+        "description": "Уверенное знание <highlighttext>Java</highlighttext>: Core, Collections, Multithreading. Опыт работы со Spring от 2-х лет (Boot, Security, Data JPA). "
+    },
+    {
+        "title": "Стажер-разработчик",
+        "url": "https://hh.ru/vacancy/117466156",
+        "salary": null,
+        "description": "Знание основ объектно-ориентированного программирования. Знание SQL. Владение языками программирования. Знание <highlighttext>Java</highlighttext>, C#, Python, C++. Опыт работы с PostgreSQL / Postgres..."
+    },
+    {
+        "title": "Java developer (коннекторы и интеграция)",
+        "url": "https://hh.ru/vacancy/117624488",
+        "salary": null,
+        "description": "Уверенные знания <highlighttext>Java</highlighttext> Core, работа с системами контроля версий и сборки проектов. Опыт работы с реляционными базами данных. Быстрая обучаемость. "
+    },
+    {
+        "title": "Java L3 Developer",
+        "url": "https://hh.ru/vacancy/117635453",
+        "salary": null,
+        "description": "Знание ООП, <highlighttext>Java</highlighttext> Core, Spring, Spring Boot. Базовые знания алгоритмов и структур данных. Опыт работы с системами сборки Maven/gradle. "
+    }
+]
